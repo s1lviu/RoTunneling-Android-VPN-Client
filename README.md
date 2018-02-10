@@ -1,14 +1,13 @@
-OpenVPN for Android
-=================================
-OpenVpn Android client, simplified from [ics-openvpn](https://github.com/schwabe/ics-openvpn).
+<h1 id="android-vpn-client-for-rotunneling">Android VPN Client for RoTunneling</h1>
+<p>Forked from <a href="https://github.com/yuger/VPN_2017">here</a>.</p>
+<p>Added:</p>
+<ul>
+<li>multiple certificates support (list)</li>
+<li>username/password/proxy input</li>
+<li>proxy support</li>
+</ul>
+<p>The .ovpn certificates are loaded from <code>src/main/assets/certs/</code></p>
+<blockquote>
+<p>This fork was be made for helping the RoTunneling community and is a starter.</p>
+</blockquote>
 
-You should prepare your own `client.ovpn` file in the assets folder, which decode in [here](https://github.com/yuger/VPN_2017/blob/master/vpn2017/src/main/java/com/wxy/vpn/MainActivity.java#L86).
-And you may translate the OpenVPN Android client into your native language. 
-
-![](https://github.com/yuger/VPN_2017/blob/master/vpn2017/art/screenshot.jpg)
-
-License
----------------------------------
-[![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://img.shields.io/badge/License-GPL%20v2-blue.svg)
-> Make sure you understand the licenses of the code. OpenVPN for Android is GPL licensed.
-> You _CANNOT_ build a closed sourced custom UI application without acquiring a different (paid) license for UI code.
