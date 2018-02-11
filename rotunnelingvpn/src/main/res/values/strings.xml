@@ -96,7 +96,6 @@
     <string name="management_socket_closed">Connection to OpenVPN closed (%s)</string>
     <string name="connect_vpn">Connect VPN</string>
 
-<!--    <string name="bottom_notice">本应用是开发者将服务器的带宽和流量分享出来免费为大陆用户提供科学上网服务的VPN工具。\n\n由于服务器的资源有限，本VPN不能提供与付费服务同等的高速上网体验，因此这可能不是您的第一选择。同时为了控制用户规模，本VPN的认证证书可能会由开发者不定期更改，届时将无法再提供科学上网服务。用户可以点击本页面底部按钮与开发者联系并索要认证证书文件，或者检查本应用是否在Google Play更新。当认证证书修改时，开发者会在Google Play同步更新本应用。\n\n如果发现网速较慢，请尝试将WiFi切换成4G流量，开发者测试无线4G体验较好而电信宽带WiFi连接会有不稳定。开发者不建议将本VPN用于高耗流量如下载和观看视频等用途，您消费1G流量意味着服务器消耗2G流量，所以总带宽已经被开发者限制在了一定范围之内。\n\n如果您向开发者索得了新的证书文件，请将其剪切到/Android/data/net.rotunneling.rotunnelingvpn/files目录下、文件名修改为client.bin，并点击本页面底部右侧按钮更新证书；再次点击可还原为默认的内置证书。\n\n请在Google Play为本应用打分和评论 ^0^</string>-->   <string name="btn_connect">Connect</string>
     <string name="click_again">Click again</string>
     <string name="ip_looks_like_subnet">VPN topology specified as "%3$s" but using ifconfig %1$s %2$s looks more like a netmask IP address. Assume the "subnet" topology.</string>
     <string name="keychain_access">Can not access Android key chain certificate. This may be due to a firmware upgrade or application / software setup by restoring the backup. Please edit the VPN configuration file and reselect the certificate in the basic settings to re-create the certificate access.</string>
