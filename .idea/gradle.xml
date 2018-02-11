@@ -8,8 +8,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Contact" />
-            <option value="$PROJECT_DIR$/vpn2017" />
+            <option value="$PROJECT_DIR$/VPN" />
+            <option value="$PROJECT_DIR$/rotunnelingvpn" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
