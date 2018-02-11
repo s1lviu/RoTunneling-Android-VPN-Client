@@ -3109,7 +3109,7 @@ public final class R {
     public static final int design_tab_text_size_2line=0x7f06006f;
     public static final int disabled_alpha_material_dark=0x7f060070;
     public static final int disabled_alpha_material_light=0x7f060071;
-    public static final int faboptions_button_layout_height=0x7f060072;
+    //public static final int faboptions_button_layout_height=0x7f060072;
     public static final int faboptions_button_padding=0x7f060073;
     public static final int faboptions_icon_size=0x7f060074;
     public static final int faboptions_layout_height=0x7f060075;

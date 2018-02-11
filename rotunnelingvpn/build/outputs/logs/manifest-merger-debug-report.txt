@@ -4,19 +4,19 @@ ADDED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunneli
 INJECTED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml:1:1-68:12
 INJECTED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml:1:1-68:12
 INJECTED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml:1:1-68:12
-MERGED from [com.github.joaquimley:faboptions:1.1.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/faboptions-1.1.2.aar/6986be6286fed4e39004a94c4f571ebc/AndroidManifest.xml:17:1-29:12
 MERGED from [com.android.support:design:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/9604bec04061ae9e096b689941639e94/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/a1106f5f961a725d5f8b24d3e464bb36/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/37b39acc08e716d5b7870d2cfd45acd5/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/ba3156ab65b5a53db0d8e4d8c4285c71/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:17:1-26:12
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/41030c1ea0cdabf9681ef4082e1e9381/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/107013a98b52a02038637bc4623d117b/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0139ba9ec34648c9a8d21b96853ae88f/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/413b663b151f94dd9943584335da0559/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/094fc126110452561120d5ab1151aca3/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:17:1-26:12
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/55364d93e9f124685f5c57c18824084c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40c763a5fa0846f085e5e4bfd8ad8fb9/AndroidManifest.xml:17:1-31:12
 INJECTED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml:1:1-68:12
 INJECTED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml:1:1-68:12
@@ -59,14 +59,14 @@ ADDED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunneli
 		ADDED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml:9:9-34
 application
 ADDED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml:15:5-67:19
-MERGED from [com.github.joaquimley:faboptions:1.1.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/faboptions-1.1.2.aar/6986be6286fed4e39004a94c4f571ebc/AndroidManifest.xml:27:5-20
-MERGED from [com.github.joaquimley:faboptions:1.1.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/faboptions-1.1.2.aar/6986be6286fed4e39004a94c4f571ebc/AndroidManifest.xml:27:5-20
 MERGED from [com.android.support:design:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/9604bec04061ae9e096b689941639e94/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:design:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/9604bec04061ae9e096b689941639e94/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/a1106f5f961a725d5f8b24d3e464bb36/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/a1106f5f961a725d5f8b24d3e464bb36/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/37b39acc08e716d5b7870d2cfd45acd5/AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/37b39acc08e716d5b7870d2cfd45acd5/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/ba3156ab65b5a53db0d8e4d8c4285c71/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/ba3156ab65b5a53db0d8e4d8c4285c71/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/41030c1ea0cdabf9681ef4082e1e9381/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/41030c1ea0cdabf9681ef4082e1e9381/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/107013a98b52a02038637bc4623d117b/AndroidManifest.xml:26:5-20
@@ -75,14 +75,14 @@ MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/bogdan/.gradle
 MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0139ba9ec34648c9a8d21b96853ae88f/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/413b663b151f94dd9943584335da0559/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/413b663b151f94dd9943584335da0559/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/094fc126110452561120d5ab1151aca3/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/094fc126110452561120d5ab1151aca3/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/55364d93e9f124685f5c57c18824084c/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/55364d93e9f124685f5c57c18824084c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40c763a5fa0846f085e5e4bfd8ad8fb9/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40c763a5fa0846f085e5e4bfd8ad8fb9/AndroidManifest.xml:29:5-20
 	android:supportsRtl
@@ -185,14 +185,16 @@ uses-sdk
 INJECTED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml
 INJECTED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml
-MERGED from [com.github.joaquimley:faboptions:1.1.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/faboptions-1.1.2.aar/6986be6286fed4e39004a94c4f571ebc/AndroidManifest.xml:23:5-25:41
-MERGED from [com.github.joaquimley:faboptions:1.1.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/faboptions-1.1.2.aar/6986be6286fed4e39004a94c4f571ebc/AndroidManifest.xml:23:5-25:41
 MERGED from [com.android.support:design:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/9604bec04061ae9e096b689941639e94/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/9604bec04061ae9e096b689941639e94/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/a1106f5f961a725d5f8b24d3e464bb36/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/a1106f5f961a725d5f8b24d3e464bb36/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/37b39acc08e716d5b7870d2cfd45acd5/AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/37b39acc08e716d5b7870d2cfd45acd5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/ba3156ab65b5a53db0d8e4d8c4285c71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/ba3156ab65b5a53db0d8e4d8c4285c71/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/41030c1ea0cdabf9681ef4082e1e9381/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/41030c1ea0cdabf9681ef4082e1e9381/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/107013a98b52a02038637bc4623d117b/AndroidManifest.xml:20:5-44
@@ -201,16 +203,14 @@ MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/bogdan/.gradle
 MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0139ba9ec34648c9a8d21b96853ae88f/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/413b663b151f94dd9943584335da0559/AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/413b663b151f94dd9943584335da0559/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:21:5-23:63
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/094fc126110452561120d5ab1151aca3/AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/094fc126110452561120d5ab1151aca3/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/55364d93e9f124685f5c57c18824084c/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/55364d93e9f124685f5c57c18824084c/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40c763a5fa0846f085e5e4bfd8ad8fb9/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40c763a5fa0846f085e5e4bfd8ad8fb9/AndroidManifest.xml:21:5-23:58
 INJECTED from /Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/src/main/AndroidManifest.xml
@@ -229,6 +229,10 @@ meta-data#android.support.VERSION
 ADDED from [com.android.support:design:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/design-26.0.0-alpha1.aar/9604bec04061ae9e096b689941639e94/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/a1106f5f961a725d5f8b24d3e464bb36/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/a1106f5f961a725d5f8b24d3e464bb36/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/ba3156ab65b5a53db0d8e4d8c4285c71/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/ba3156ab65b5a53db0d8e4d8c4285c71/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/41030c1ea0cdabf9681ef4082e1e9381/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0-alpha1.aar/41030c1ea0cdabf9681ef4082e1e9381/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0-alpha1.aar/107013a98b52a02038637bc4623d117b/AndroidManifest.xml:22:5-24:41
@@ -237,16 +241,14 @@ MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/bogdan/.gradle
 MERGED from [com.android.support:transition:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/transition-26.0.0-alpha1.aar/0139ba9ec34648c9a8d21b96853ae88f/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/413b663b151f94dd9943584335da0559/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0-alpha1.aar/413b663b151f94dd9943584335da0559/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/094fc126110452561120d5ab1151aca3/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0-alpha1.aar/094fc126110452561120d5ab1151aca3/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:25:5-27:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:22:5-24:41
-MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.0.0-alpha1.aar/d8c15035d81484bcf2f9e71e6a1258a2/AndroidManifest.xml:22:5-24:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/55364d93e9f124685f5c57c18824084c/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0-alpha1.aar/55364d93e9f124685f5c57c18824084c/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0-alpha1.aar/9133f71cfc8ac4e1486d1794a493858c/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0-alpha1.aar/dc6b38ca5a4d6f3b62f3bc403f5499de/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40c763a5fa0846f085e5e4bfd8ad8fb9/AndroidManifest.xml:25:5-27:41
 MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/bogdan/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0-alpha1.aar/40c763a5fa0846f085e5e4bfd8ad8fb9/AndroidManifest.xml:25:5-27:41
 	android:value

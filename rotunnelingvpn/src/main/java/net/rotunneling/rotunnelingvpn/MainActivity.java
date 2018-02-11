@@ -172,7 +172,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.btn_circle:// 点击连接VPN
+            case R.id.servers:// 点击连接VPN
                 if (isFirst) {
                     Snackbar.make(v, R.string.click_again, Snackbar.LENGTH_INDEFINITE).setAction("OK", new View.OnClickListener() {
                         @Override

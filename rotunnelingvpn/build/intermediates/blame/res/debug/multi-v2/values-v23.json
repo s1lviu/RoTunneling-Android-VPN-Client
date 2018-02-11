@@ -4,6 +4,25 @@
             "outputFile": "/Users/bogdan/StudioProjects/RoTunneling-Android-VPN-Client/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml",
             "map": [
                 {
+                    "source": "/Users/bogdan/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.0.0-alpha1.aar/ba3156ab65b5a53db0d8e4d8c4285c71/res/values-v23/values-v23.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "37",
+                        "startColumns": "4",
+                        "startOffsets": "2646",
+                        "endLines": "39",
+                        "endColumns": "12",
+                        "endOffsets": "2791"
+                    }
+                },
+                {
                     "source": "/Users/bogdan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0-alpha1.aar/a1106f5f961a725d5f8b24d3e464bb36/res/values-v23/values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,19,32,33,34,35,36",
