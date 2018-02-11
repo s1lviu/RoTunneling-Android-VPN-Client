@@ -317,7 +317,6 @@ public class LogItem implements Parcelable {
 
     public boolean verify() {
         if (mLevel == null) return false;
-        if (mMessage == null && mRessourceId == 0) return false;
-        return true;
+        return !(mMessage == null && mRessourceId == 0);
     }
 }

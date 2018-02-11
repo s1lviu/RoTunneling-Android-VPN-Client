@@ -187,11 +187,7 @@ public class CuboidButton extends android.support.v7.widget.AppCompatTextView {
         double dx = Math.pow(x - circleCenterX, 2);
         double dy = Math.pow(y - circleCenterY, 2);
 
-        if ((dx + dy) < Math.pow(circleRadius, 2)) {
-            return true;
-        } else {
-            return false;
-        }
+        return (dx + dy) < Math.pow(circleRadius, 2);
     }
 
     public void imageIcon(Canvas canvas, Paint p, int p1, int p2) {

@@ -109,7 +109,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     public void onItemClick(AdapterView<?> parent, View view,
                                             int position, long id) {
                         // When clicked, show a toast with the TextView text
-                        TextView c = (TextView) view.findViewById(R.id.label);
+                        TextView c = view.findViewById(R.id.label);
                         String playerChanged = c.getText().toString();
                         startVpn(playerChanged);
                     }

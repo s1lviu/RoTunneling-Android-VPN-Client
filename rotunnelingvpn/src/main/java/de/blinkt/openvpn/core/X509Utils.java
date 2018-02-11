@@ -159,7 +159,7 @@ public class X509Utils {
             if (isPrintableChar(c)) {
                 d += c;
             } else if (i == 1 && (c == 0x12 || c == 0x1b)) {
-                ;   // ignore
+                // ignore
             } else {
                 d += "\\x" + hexstr;
             }

@@ -153,9 +153,7 @@ public class DeviceStateReceiver extends BroadcastReceiver implements ByteCountL
             boolean pendingDisconnect = (network == connectState.PENDINGDISCONNECT);
             network = connectState.SHOULDBECONNECTED;
             boolean sameNetwork;
-            if (lastConnectedNetwork == null || lastConnectedNetwork.getType() != networkInfo.getType() || !equalsObj(lastConnectedNetwork.getExtraInfo(), networkInfo.getExtraInfo()))
-                sameNetwork = false;
-            else sameNetwork = true;
+            sameNetwork = !(lastConnectedNetwork == null || lastConnectedNetwork.getType() != networkInfo.getType() || !equalsObj(lastConnectedNetwork.getExtraInfo(), networkInfo.getExtraInfo()));
             /* Same network, connection still 'established' */
             if (pendingDisconnect && sameNetwork) {
                 mDisconnectHandler.removeCallbacks(mDelayDisconnectRunnable);

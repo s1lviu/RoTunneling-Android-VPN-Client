@@ -18,249 +18,27 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8d3881c5-5ed6-4907-b4d5-e4374ba76c7b" name="UI/UX edit" comment="UI/UX edit">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/drawable/logo_d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/mipmap-xhdpi/logo_d.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/mipmap-xhdpi/rotunneling.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/mipmap-xhdpi/rotunneling2.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/com_github_joaquimley_faboptions_1_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/com/joaquimley/faboptions/R.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/assets/debug/certs/Romania-1.ovpn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/assets/debug/certs/Romania-2.ovpn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/assets/debug/certs/Romania-3.ovpn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/assets/debug/certs/USA.ovpn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$animator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/com/joaquimley/faboptions/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-af/values-af.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-am/values-am.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-b+sr+Latn/values-b+sr+Latn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-be/values-be.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bg/values-bg.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bn/values-bn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-bs/values-bs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-cs/values-cs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-da/values-da.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-el/values-el.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rAU/values-en-rAU.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rGB/values-en-rGB.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en-rIN/values-en-rIN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es-rUS/values-es-rUS.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-es/values-es.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-eu/values-eu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fa/values-fa.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fi/values-fi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr-rCA/values-fr-rCA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gl/values-gl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-gu/values-gu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hi/values-hi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hr/values-hr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hu/values-hu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hy/values-hy.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-in/values-in.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-is/values-is.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-it/values-it.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ja/values-ja.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ka/values-ka.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kk/values-kk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-km/values-km.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ko/values-ko.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ky/values-ky.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-large-v4/values-large-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lt/values-lt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mk/values-mk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ml/values-ml.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mn/values-mn.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mr/values-mr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ms/values-ms.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-my/values-my.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nb/values-nb.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ne/values-ne.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-night-v8/values-night-v8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pa/values-pa.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pl/values-pl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rPT/values-pt-rPT.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ro/values-ro.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ru/values-ru.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-si/values-si.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sk/values-sk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sq/values-sq.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sr/values-sr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sv/values-sv.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw/values-sw.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ta/values-ta.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-te/values-te.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-th/values-th.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tl/values-tl.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-tr/values-tr.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uz/values-uz.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v13/values-v13.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v17/values-v17.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v18/values-v18.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v22/values-v22.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v23/values-v23.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v24/values-v24.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-vi/values-vi.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-v4/values-xlarge-v4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rCN/values-zh-rCN.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rHK/values-zh-rHK.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zh-rTW/values-zh-rTW.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values-zu/values-zu.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/anim_open_morph_animation.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/animator_close_to_overflow.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/animator_overflow_to_close.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/drawable_faboptions_background.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/drawable_faboptions_ic_close.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/drawable_faboptions_ic_close_animatable.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/drawable_faboptions_ic_menu_animatable.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/drawable_faboptions_ic_overflow.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/layout_faboptions_button.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/layout_faboptions_layout.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/layout_faboptions_separator.xml.flat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/assets/certs/Romania-1.ovpn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/assets/certs/Romania-2.ovpn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/assets/certs/Romania-3.ovpn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/assets/certs/USA.ovpn" afterPath="" />
+    <list default="true" id="8d3881c5-5ed6-4907-b4d5-e4374ba76c7b" name="Code Cleanup" comment="Code Cleanup">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/resourceHashesCache.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/jarAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/constraint/R$attr.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/constraint/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/constraint/R$id.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/constraint/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/constraint/R$styleable.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/constraint/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$animator.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$animator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$attr.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$color.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$dimen.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$drawable.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$id.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$layout.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$string.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$style.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$styleable.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/design/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/transition/R$id.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/transition/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/appcompat/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/recyclerview/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/recyclerview/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/recyclerview/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/android/support/v7/recyclerview/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/DisconnectVPNActivity.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/DisconnectVPNActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/OpenVpnApi.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/OpenVpnApi.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$anim.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$anim.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$animator.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$animator.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$attr.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$bool.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$color.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$dimen.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$drawable.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$id.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$integer.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$integer.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$layout.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$menu.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$menu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$mipmap.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$mipmap.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$string.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$style.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$styleable.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/R$styleable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/VpnProfile.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/VpnProfile.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/DeviceStateReceiver$Datapoint.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/DeviceStateReceiver$Datapoint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/DeviceStateReceiver$connectState.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/DeviceStateReceiver$connectState.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/DeviceStateReceiver.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/DeviceStateReceiver.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/LogFileHandler.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/LogFileHandler.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/LogItem.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/LogItem.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/OpenVPNService.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/OpenVPNService.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/OpenVPNThread.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/OpenVPNThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/OpenVpnManagementThread.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/OpenVpnManagementThread.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/ProxyDetection.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/ProxyDetection.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/VpnStatus.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/VpnStatus.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/X509Utils.class" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/classes/debug/de/blinkt/openvpn/core/X509Utils.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/debug-mergeJavaRes/merge-state" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/debug-mergeJniLibs/merge-state" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/debug/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/layout_content_main.xml.flat" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/layout_content_main.xml.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/values-v23_values-v23.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/values_values.arsc.flat" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/merged/debug/values_values.arsc.flat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build.gradle" afterPath="$PROJECT_DIR$/rotunnelingvpn/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/androidTest/debug/net/rotunneling/rotunnelingvpn/test/R.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/androidTest/debug/net/rotunneling/rotunnelingvpn/test/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/constraint/R.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/constraint/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/design/R.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/design/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/transition/R.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/transition/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/v7/appcompat/R.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/v7/appcompat/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/android/support/v7/recyclerview/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/de/blinkt/openvpn/R.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/generated/source/r/debug/de/blinkt/openvpn/R.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/blame/res/debug/multi-v2/debug.json" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/blame/res/debug/multi-v2/values-v23.json" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/blame/res/debug/multi-v2/values-v23.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/blame/res/debug/multi-v2/values.json" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/blame/res/debug/single/debug.json" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/blame/res/debug/single/debug.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/packageDebug/debug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/incremental/packageDebug/debug/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/res/symbol-table-with-package/debug/package-aware-r.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/symbols/debug/R.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/rotunnelingvpn/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/rotunnelingvpn.iml" afterPath="$PROJECT_DIR$/rotunnelingvpn/rotunnelingvpn.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/de/blinkt/openvpn/core/OpenVpnManagementThread.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/de/blinkt/openvpn/core/OpenVpnManagementThread.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/de/blinkt/openvpn/core/DeviceStateReceiver.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/de/blinkt/openvpn/core/DeviceStateReceiver.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/de/blinkt/openvpn/core/LogItem.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/de/blinkt/openvpn/core/LogItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/de/blinkt/openvpn/core/X509Utils.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/de/blinkt/openvpn/core/X509Utils.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/net/rotunneling/rotunnelingvpn/CuboidButton.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/net/rotunneling/rotunnelingvpn/CuboidButton.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/net/rotunneling/rotunnelingvpn/MainActivity.java" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/java/net/rotunneling/rotunnelingvpn/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/layout/content_main.xml" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/layout/content_main.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/values/colors.xml" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/values/colors.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/rotunnelingvpn/src/main/res/values/strings.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -287,8 +65,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/rotunnelingvpn/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+            <state relative-caret-position="8">
+              <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
               <folding />
             </state>
           </provider>
@@ -2657,7 +2435,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518355742865" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518356391620" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -2705,7 +2483,7 @@
       </Profilers>
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518355742865" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518356391621" />
       </method>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -2888,7 +2666,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518355742868" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518356391634" />
       </method>
     </configuration>
     <configuration default="false" name="rotunnelingvpn" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
@@ -2937,7 +2715,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method>
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518355742868" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1518356391634" />
       </method>
     </configuration>
     <list size="2">
@@ -2995,7 +2773,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518348887750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="UI/UX edit">
+      <created>1518355759856</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1518355759856</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -3003,7 +2788,7 @@
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32831737" sideWeight="0.5200286" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831737" sideWeight="0.5200286" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32831737" sideWeight="0.75822604" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -3422,8 +3207,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rotunnelingvpn/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="12" lean-forward="false" selection-start-line="30" selection-start-column="12" selection-end-line="30" selection-end-column="12" />
+        <state relative-caret-position="8">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
           <folding />
         </state>
       </provider>
