@@ -70,28 +70,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
     }
 
-//    private void readNewAC() {
-//        try {
-//            File file = new File(getExternalFilesDir(null).getAbsolutePath(), "client.bin");// /storage/sdcard0/Android/data/net.rotunneling.rotunnelingvpn/files
-//            if (file.exists()) {
-//                try {
-//                    BufferedReader bufferedReader = new BufferedReader(new FileReader(file));
-//                    String line;
-//                    String config = "";
-//                    while ((line = bufferedReader.readLine()) != null) {
-//                        config += line + "\n";
-//                    }
-//                    OpenVpnApi.startVpn(this, config, null, null);
-//                } catch (IOException | RemoteException e) {
-//                    Toast.makeText(this, "证书文件解析错误", Toast.LENGTH_LONG).show();
-//                }
-//            } else {
-//                Toast.makeText(this, "新证书文件不存在,请检查路径和文件名", Toast.LENGTH_LONG).show();
-//            }
-//        } catch (NullPointerException ignore) {
-//            Toast.makeText(this, "似乎没有存储，还是使用默认证书吧~", Toast.LENGTH_LONG).show();
-//        }
-//    }
 
     private void listCertificates() {
         String[] list;
@@ -167,7 +145,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     }
 
     private MyBottomSheetDialog bottomSheetDialog;
-//    private Button btnNewCA;
 
     @Override
     public void onClick(View v) {
@@ -185,119 +162,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     isFirst = false;
                     editor.apply();
                 }
-//                if (!sharedPreferences.getBoolean("is_ca_changed", false)) {// 证书没被改变
-                //startVpn();
-//                } else {// 证书已被更改 读取SD卡
-//                    if (Build.VERSION.SDK_INT >= 23 && ContextCompat.checkSelfPermission(this, Manifest.permission.READ_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-//                        ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.READ_EXTERNAL_STORAGE}, 2);
-//                    } else {// 读取SD卡文件
-//                        readNewAC();
-//                    }
-//                }
-                break;
-//            case R.id.fab:
-//                if (bottomSheetDialog == null) {
-//                    bottomSheetDialog = new MyBottomSheetDialog(this);
-//                }
-//                bottomSheetDialog.setContentView(R.layout.bottom);
-//                if (bottomSheetDialog != null) {
-//                    Button btnContact = (Button) bottomSheetDialog.findViewById(R.id.btn_contact);
-////                    btnNewCA = (Button) bottomSheetDialog.findViewById(R.id.btn_change_CA);
-////                    String btnText = sharedPreferences.getString("btn_text", "更新证书");
-////                    btnNewCA.setText(btnText);
-//                    if (btnContact != null) btnContact.setOnClickListener(this);
-////                    if (btnNewCA != null) btnNewCA.setOnClickListener(this);
-//                }
-//                bottomSheetDialog.show();
-//                break;
-//            case R.id.btn_contact:
-//                initMeiqiaSDK();
-//                if (bottomSheetDialog != null && bottomSheetDialog.isShowing()) bottomSheetDialog.dismiss();
-//                Intent intent = new MQIntentBuilder(this).build();
-//                startActivity(intent);
-//                break;
-//            case R.id.btn_change_CA:
-//                if (bottomSheetDialog != null && bottomSheetDialog.isShowing()) bottomSheetDialog.dismiss();
-//                if (Build.VERSION.SDK_INT >= 23 && ContextCompat.checkSelfPermission(this, Manifest.permission.READ_EXTERNAL_STORAGE) != PackageManager.PERMISSION_GRANTED) {
-//                    ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.READ_EXTERNAL_STORAGE}, 1);
-//                } else {
-//                    newCA();
-//                }
-//                break;
-            case R.id.item_rate_app:
-                try {
-                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + getPackageName())));
-                } catch (android.content.ActivityNotFoundException ignore) {
-                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=" + getPackageName())));
-                }
-                break;
-            case R.id.item_more_apps:
-                try {
-                    Intent intent1 = new Intent(Intent.ACTION_VIEW);
-                    intent1.setData(Uri.parse("market://search?q=pub:rotunneling"));
-                    startActivity(intent1);
-                } catch (ActivityNotFoundException ignore) {
-                    Toast.makeText(this, "Not found Google Play!", Toast.LENGTH_SHORT).show();
-                }
-                break;
-            case R.id.item_contact:
-//                initMeiqiaSDK();
-//                if (bottomSheetDialog != null && bottomSheetDialog.isShowing()) bottomSheetDialog.dismiss();
-//                Intent intent = new MQIntentBuilder(this).build();
-//                startActivity(intent);
-                break;
-            case R.id.item_private_policy:
-                try {
-                    startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://rawgit.com/yuger/app_policy/master/VPN_2017_Policy.html")));
-                } catch (android.content.ActivityNotFoundException ignore) {
-                    Toast.makeText(this,/*R.string.no_browser*/"No browser found", Toast.LENGTH_SHORT).show();
-                }
                 break;
             default:
                 break;
         }
     }
-
-//    private void initMeiqiaSDK() {
-//        MQManager.setDebugMode(false);
-//        MQConfig.init(this, "0939032e0135200dd550e21734eb58a9", null); // https://app.meiqia.com/setting/sdk
-//        MQConfig.ui.titleGravity = MQConfig.ui.MQTitleGravity.LEFT;
-//    }
-
-//    @TargetApi(23)
-//    @Override
-//    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
-//        switch (requestCode) {
-//            case 1:
-//                if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-//                    newCA();
-//                } else {
-//                    Toast.makeText(this, "未授权", Toast.LENGTH_SHORT).show();
-//                }
-//                break;
-//            case 2:
-//                if (grantResults.length > 0 && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
-//                    readNewAC();
-//                } else {
-//                    Toast.makeText(this, "未授权", Toast.LENGTH_SHORT).show();
-//                }
-//                break;
-//            default:
-//                break;
-//        }
-//    }
-
-//    private void newCA() {
-//        SharedPreferences.Editor editor = sharedPreferences.edit();
-//        if (sharedPreferences.getBoolean("is_ca_changed", false)) {
-//            editor.putBoolean("is_ca_changed", false);
-//            if (btnNewCA != null) editor.putString("btn_text", "更新证书");
-//            Toast.makeText(this, "证书已还原,继续使用默认证书", Toast.LENGTH_SHORT).show();
-//        } else {
-//            editor.putBoolean("is_ca_changed", true);
-//            if (btnNewCA != null) editor.putString("btn_text", "还原证书");
-//            Toast.makeText(this, "将使用新证书,请确保你有新证书！", Toast.LENGTH_LONG).show();
-//        }
-//        editor.apply();
-//    }
 }

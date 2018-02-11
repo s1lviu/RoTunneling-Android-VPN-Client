@@ -17,7 +17,7 @@
 #}
 
 #-------------------------混淆字典-------------------------
--obfuscationdictionary dictionary.txt
+#-obfuscationdictionary dictionary.txt
 
 #  -------------------Meiqia Sdk------------------------
 

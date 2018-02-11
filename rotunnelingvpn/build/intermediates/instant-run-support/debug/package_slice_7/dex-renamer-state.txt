@@ -1,4 +1,0 @@
-#Sat Feb 10 23:14:50 EET 2018
-base.0=/Users/silviu/Desktop/VPN_2017/vpn2017/build/intermediates/transforms/dexMerger/debug/7
-path.0=classes.dex
-renamed.0=classes.dex
